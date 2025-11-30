@@ -29,4 +29,3 @@
 
         python main.py
 
-[<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/basuco00_/)
