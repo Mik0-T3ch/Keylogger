@@ -1,3 +1,5 @@
+# Solo es un beta de un keylogger en un futuro se hara uno mucho mejor recibiendo varios buffeos y implementando C.
+
 # 1. Clona el repositorio
      
         git clone https://github.com/Mik0-T3ch/Keylogger.git
